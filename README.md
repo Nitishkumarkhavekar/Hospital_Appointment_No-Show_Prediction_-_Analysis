@@ -122,16 +122,19 @@ Certain neighbourhoods exhibit higher no-show rates, suggesting a connection bet
 
 ```text id="3x9p7m"
 Hospital-NoShow-Analysis/
-│── 01_Loading.sql            # Database setup & timestamp normalization
-│── 02_Cleaning.sql           # Data cleaning & exclusion logic
-│── 03_Analysis.sql           # Analytical SQL queries
-│── 04_Views.sql              # BI-ready production views
-│── Apollo_Analysis.ipynb     # Python analysis & visualization notebook
-│── Apollo_Analysis.pbix      # Interactive Power BI dashboard
-└── README.md                 # Project documentation
-```
-
+│── 01_Loading.sql                # Database setup & timestamp normalization
+│── 02_Cleaning.sql               # Data cleaning & exclusion logic
+│── 03_Analysis.sql               # Analytical SQL queries
+│── 04_Views.sql                  # BI-ready production views
+│── Apollo_Analysis.ipynb         # Python analysis & visualization notebook
+│── Apollo_Analysis.pbix          # Interactive Power BI dashboard
+│── patient_no_show_dashboard.png # Dashboard preview image
+└── README.md                     # Project documentation
 ---
+
+## 📊 Dashboard Preview
+
+![Patient No Show Dashboard](patient_no_show_dashboard.png)
 
 ## 🤝 Connect
 
