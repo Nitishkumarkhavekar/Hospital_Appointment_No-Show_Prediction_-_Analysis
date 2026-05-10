@@ -133,7 +133,8 @@ Hospital-NoShow-Analysis/
 ---
 
 ## 📊 Dashboard Preview
-![Patient No Show Dashboard](./patient_no_show_dashboard.png)
+
+![Patient No Show Dashboard](patient_no_show_dashboard.png)
 
 ## 🤝 Connect
 
